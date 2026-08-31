@@ -26,11 +26,11 @@
 
 ## 📝 Resumo de Prompts utilizados:
 
-#### Acesse aqui: 👉 [Prompts](https://github.com/vanspirineti/DIO_Bootcamp_Universia_BI/blob/fa82d237065c57df083dd182e65982e78ed01ad6/Fontes/Fontes.md)
+#### Acesse aqui: 👉 [Prompts](https://github.com/vanspirineti/DIO_Bootcamp_Universia_BI/blob/6d181590a2a6617d8d9d80a43f94833ea7154367/Prompts/Prompts.md)
 
 ## ✅ Resumo do Projeto - Miniguia de Estudo:
 
 Agora você pode aprender um pouco sobre o fascinante estudo do padrão Fibonacci na Natureza.
 Aproveite o material e se divirta aprendendo.
 
-Acesse aqui:  👉  
+#### Acesse aqui: 👉 [Resultados](https://github.com/vanspirineti/DIO_Bootcamp_Universia_BI/tree/6d181590a2a6617d8d9d80a43f94833ea7154367/Resultados)
