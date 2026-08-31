@@ -15,6 +15,6 @@ Aproveite o material e se divirta aprendendo.
 
  [Mapa Mental Resumido](https://github.com/vanspirineti/DIO_Bootcamp_Universia_BI/blob/a65ca8b72b4918487c9b7f6e077ec4d0df0db632/Resultados/Mapa%20Mental.png)
 
----
 
-### 📈 Mapa Mental:  
+
+
