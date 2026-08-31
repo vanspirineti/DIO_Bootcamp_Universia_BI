@@ -33,4 +33,4 @@
 Agora você pode aprender um pouco sobre o fascinante estudo do padrão Fibonacci na Natureza.
 Aproveite o material e se divirta aprendendo.
 
-#### Acesse aqui: 👉 [Resultados](https://github.com/vanspirineti/DIO_Bootcamp_Universia_BI/blob/12033b8dd604b38e504176ce539747d2ee6829af/Resultados/Miniguia.md)
+#### Acesse aqui: 👉 [Resultados](https://github.com/vanspirineti/DIO_Bootcamp_Universia_BI/blob/1addb0e4a493ec5268340bbf12cf989854a37026/Resultados/Resultados.md)
