@@ -20,5 +20,17 @@
 ---
 ## 🎲 Algumas das fontes de dados usadas neste projeto:
 
-> 🔗 [Fontes de Dados](https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci)
-Fontes/Fontes.md
+#### Acesse aqui: 👉 [Fontes de Dados](https://github.com/vanspirineti/DIO_Bootcamp_Universia_BI/blob/fa82d237065c57df083dd182e65982e78ed01ad6/Fontes/Fontes.md)
+
+---
+
+## 📝 Resumo de Prompts utilizados:
+
+#### Acesse aqui: 👉 [Prompts](https://github.com/vanspirineti/DIO_Bootcamp_Universia_BI/blob/fa82d237065c57df083dd182e65982e78ed01ad6/Fontes/Fontes.md)
+
+## ✅ Resumo do Projeto - Miniguia de Estudo:
+
+Agora você pode aprender um pouco sobre o fascinante estudo do padrão Fibonacci na Natureza.
+Aproveite o material e se divirta aprendendo.
+
+Acesse aqui:  👉  
