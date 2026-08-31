@@ -22,3 +22,15 @@
 > 2 - Evite usar fórmulas complexas na explicação do tema, pode usar um gráfico ou desenho que represente a Sequência de Fibonacci de forma ilustrativa.
 > 
 > 3 - Além das respostas as perguntas iniciais, destaque brevemente onde pode-se encontrar o padrão Fibonacci em outros "lugares", por exemplo, na música.
+
+---
+
+## 🧠 Referências e dificuldades na elaboração do Prompt:
+
+>> ✅ Usei a fórmula P-C-T-F (Persona, Contexto, Tarefa e Formato) para elaboração do prompt.
+>> 
+>> ✅ Analisei rapidamente o conteúdo das fontes de dados antes de inserir no NotebookLM.
+>> 
+>> ❌ Inicialmente a IA assumiu fortemente o papel de matemático, deixando a resposta inicial complexa.
+>> 
+>> ❌ Algumas das minhas sugestões de padrão de respostas, não foram levadas em consideração pela IA.
